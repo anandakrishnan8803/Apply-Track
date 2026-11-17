@@ -42,13 +42,13 @@ cd Apply-Track
 ## Screenshots
 
 ### Login
-![ApplyTrack login page](screenshots/login.png)
+![ApplyTrack login page](screenshots/login.png.png)
 
 ### Dashboard
-![ApplyTrack dashboard](screenshots/dashboard.png)
+![ApplyTrack dashboard](screenshots/dashboard.png.png)
 
 ### Applications
-![Applications list](screenshots/application.png)
+![Applications list](screenshots/application.png.png)
 
 ### Application form
-![Add application form](screenshots/application-form.png)
+![Add application form](screenshots/application-form.png.png)
