@@ -38,3 +38,17 @@ ApplyTrack is a job application tracker built with the MERN stack. It helps user
 ```bash
 git clone https://github.com/anandakrishnan8803/Apply-Track.git
 cd Apply-Track
+
+## Screenshots
+
+### Login
+![ApplyTrack login page](screenshots/login.png)
+
+### Dashboard
+![ApplyTrack dashboard](screenshots/dashboard.png)
+
+### Applications
+![Applications list](screenshots/application.png)
+
+### Application form
+![Add application form](screenshots/application-form.png)
